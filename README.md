@@ -45,7 +45,7 @@ Correlation and linear regression analysis would be suitable statistical methods
 - R Squared (0.28):
   The R squared value of 0.28 indicates that approximately 28% of the variation in subscription rates can be explained by the variation in transaction frequency. This means that while there is some explanatory power, a large portion of the variation in successful payments is influenced by other factors not included in this analysis.
 
-[url]Correlation and Regression Analysis in SQL
+![Correlation and Regression Analysis in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_key_question_data_analysis.sql)
 
 ## Data Visualization in Tableau
 
@@ -71,7 +71,7 @@ Correlation and linear regression analysis would be suitable statistical methods
 ## Download
 <a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/Davo%20Dahoro%20Resa%20DSP%20Capstone%20Sera%20Growth%20Analysis.twbx"> Download Tableau Public Dashboard and workbook </a>
 
-<a href = "https://public.tableau.com/app/profile/davo.dahoro/viz/DavoDahoroResaDSPCapstone/SERASalesDashboard"> My Tableau Public Profile </a>
+<a href = "https://public.tableau.com/app/profile/davo.dahoro/viz/DavoDahoroResaDSPCapstone/SERASalesDashboard"> Check out my Tableau Public Profile </a>
 
 
 
