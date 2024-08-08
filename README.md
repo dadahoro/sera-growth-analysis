@@ -19,12 +19,14 @@ format, followed by building a dashboard to visualize key business metrics and d
 ## Data Transformation in SQL
 
 I transformed the Sera database into a more workable format through various string manipulations and combined all the transformations into a single VIEW (sera.sales).
-![Data transformation in SQL]()
+
+![Data transformation in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_transformation_VIEW.sql)
 
 ## Data Analysis in SQL
 
 I conducted exploratory data analysis in SQL to understand the dataset. This analysis, performed for Sera management, focused on successful and abandoned transactions as well as subscription trends.
-![Data Analysis in SQL]()
+
+![Data Analysis in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_analysis.sql)
 
 ## Key Question
 A key question the stakeholders would like to know is if the number of transactions per user increases their chances of subscribing.
@@ -43,15 +45,15 @@ Correlation and linear regression analysis would be suitable statistical methods
 - R Squared (0.28):
   The R squared value of 0.28 indicates that approximately 28% of the variation in subscription rates can be explained by the variation in transaction frequency. This means that while there is some explanatory power, a large portion of the variation in successful payments is influenced by other factors not included in this analysis.
 
-[url]Correlation Analysis in SQL
+[url]Correlation and Regression Analysis in SQL
 
 ## Data Visualization in Tableau
 
 ### Dashboard
-![Dashboard]() 
+![Dashboard](https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/sera%20sales%20dashboard.png) 
 
 ### Scatter plot and linear regression line
-![Relationships]()
+![Relationships](https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/total%20subscriptions%20attempts%20and%20successful%20payments.png)
 
 ## Growth Analysis and Recommendations
 - Increase Subscription Attempts:
@@ -67,7 +69,10 @@ Correlation and linear regression analysis would be suitable statistical methods
   Identify segments of users who are more likely to retry and succeed after a failed attempt and target them with specific interventions such as personalized reminders, discount offers, or simplified payment methods.
 
 ## Download
-<a href = ""> Download Tableau Public Dashboard and workbook </a>
+<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/Davo%20Dahoro%20Resa%20DSP%20Capstone%20Sera%20Growth%20Analysis.twbx"> Download Tableau Public Dashboard and workbook </a>
+
+<a href = "https://public.tableau.com/app/profile/davo.dahoro/viz/DavoDahoroResaDSPCapstone/SERASalesDashboard"> My Tableau Public Profile </a>
+
 
 
 
