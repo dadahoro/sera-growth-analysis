@@ -20,13 +20,11 @@ format, followed by building a dashboard to visualize key business metrics and d
 
 I transformed the Sera database into a more workable format through various string manipulations and combined all the transformations into a single VIEW (sera.sales).
 
-![Data transformation in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_transformation_VIEW.sql)
+<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_transformation_VIEW.sql"> Data transformation in SQL </a>
 
 ## Data Analysis in SQL
 
 I conducted exploratory data analysis in SQL to understand the dataset. This analysis, performed for Sera management, focused on successful and abandoned transactions as well as subscription trends.
-
-![Data Analysis in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_analysis.sql)
 
 <a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_analysis.sql"> Data Analysis in SQL </a>
 
@@ -47,15 +45,15 @@ Correlation and linear regression analysis would be suitable statistical methods
 - R Squared (0.28):
   The R squared value of 0.28 indicates that approximately 28% of the variation in subscription rates can be explained by the variation in transaction frequency. This means that while there is some explanatory power, a large portion of the variation in successful payments is influenced by other factors not included in this analysis.
 
-![Correlation and Regression Analysis in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_key_question_data_analysis.sql)
+<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_key_question_data_analysis.sql"> Correlation and Regression Analysis in SQL </a>
 
 ## Data Visualization in Tableau
 
 ### Dashboard
-![Dashboard](https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/sera%20sales%20dashboard.png) 
+<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/sera%20sales%20dashboard.png"> Dashboard </a>
 
 ### Scatter plot and linear regression line
-![Relationships](https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/total%20subscriptions%20attempts%20and%20successful%20payments.png)
+<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/total%20subscriptions%20attempts%20and%20successful%20payments.png"> Relationships </a>
 
 ## Growth Analysis and Recommendations
 - Increase Subscription Attempts:
