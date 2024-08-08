@@ -50,10 +50,10 @@ Correlation and linear regression analysis would be suitable statistical methods
 ## Data Visualization in Tableau
 
 ### Dashboard
-<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/sera%20sales%20dashboard.png"> Dashboard </a>
+![Dashboard](https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/sera%20sales%20dashboard.png)
 
 ### Scatter plot and linear regression line
-<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/total%20subscriptions%20attempts%20and%20successful%20payments.png"> Relationships </a>
+![Relationships]("https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/total%20subscriptions%20attempts%20and%20successful%20payments.png")
 
 ## Growth Analysis and Recommendations
 - Increase Subscription Attempts:
