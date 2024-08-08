@@ -69,7 +69,7 @@ Correlation and linear regression analysis would be suitable statistical methods
   Identify segments of users who are more likely to retry and succeed after a failed attempt and target them with specific interventions such as personalized reminders, discount offers, or simplified payment methods.
 
 ## Download
-<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/assets/Davo%20Dahoro%20Resa%20DSP%20Capstone%20Sera%20Growth%20Analysis.twbx"> Download Tableau Public Dashboard and workbook </a>
+<a href = "https://github.com/dadahoro/sera-growth-analysis/raw/main/assets/Davo%20Dahoro%20Resa%20DSP%20Capstone%20Sera%20Growth%20Analysis.twbx"> Download Tableau workbook </a>
 
 <a href = "https://public.tableau.com/app/profile/davo.dahoro/viz/DavoDahoroResaDSPCapstone/SERASalesDashboard"> Check out my Tableau Public Profile </a>
 
