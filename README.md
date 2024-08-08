@@ -28,6 +28,8 @@ I conducted exploratory data analysis in SQL to understand the dataset. This ana
 
 ![Data Analysis in SQL](https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_analysis.sql)
 
+<a href = "https://github.com/dadahoro/sera-growth-analysis/blob/main/sera_sales_data_analysis.sql"> Data Analysis in SQL </a>
+
 ## Key Question
 A key question the stakeholders would like to know is if the number of transactions per user increases their chances of subscribing.
 Does transaction frequency (total subscription attempts) impact subscription rates (successful payments)?
